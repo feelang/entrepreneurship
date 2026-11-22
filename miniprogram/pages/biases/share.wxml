@@ -1,7 +1,0 @@
-<!-- pages/biases/share.wxml -->
-<view class="container">
-  <canvas id="myCanvas" type="2d" />
-  <view class="save-btn" bind:tap="onSavePicture">
-    <text>Save to Album</text>
-  </view>
-</view>

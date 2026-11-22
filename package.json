@@ -1,15 +1,14 @@
 {
-  "name": "miniprogram-ts-less-quickstart",
+  "name": "self-discipline-toolbox",
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "build": "node scripts/build-pages.cjs"
   },
   "keywords": [],
   "author": "",
   "license": "",
-  "dependencies": {
-  },
   "devDependencies": {
-    "miniprogram-api-typings": "^2.8.3-1"
+    "markdown-it": "15.0.3"
   }
 }
