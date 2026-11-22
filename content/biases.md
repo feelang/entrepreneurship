@@ -1,8 +1,8 @@
-# 50 Cognitive Biases
+# 50 Cognitive Biases（50 种认知偏差）
 
 **Source:** [Visual Capitalist: 50 Cognitive Biases in the Modern World](https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/)
 
-## Fundamental Attribution Error
+## Fundamental Attribution Error（基本归因错误）
 
 We judge others on their personality or fundamental character, but we judge ourselves on the situation.
 
@@ -12,7 +12,7 @@ We judge others on their personality or fundamental character, but we judge ours
 
 ![Fundamental Attribution Error](assets/biases/fundamental-attribution-error.jpg)
 
-## Self-Serving Bias
+## Self-Serving Bias（自利偏差）
 
 Our failures are situational, but our successes are our responsibility.
 
@@ -22,7 +22,7 @@ Our failures are situational, but our successes are our responsibility.
 
 ![Self-Serving Bias](assets/biases/self-serving-bias.jpg)
 
-## In-Group Favoritism
+## In-Group Favoritism（内群体偏好）
 
 We favor people who are in our in-group as opposed to an out-group
 
@@ -32,7 +32,7 @@ We favor people who are in our in-group as opposed to an out-group
 
 ![In-Group Favoritism](assets/biases/in-group-favoritism.jpg)
 
-## Bandwagon Effect
+## Bandwagon Effect（从众效应）
 
 Ideas, fads, and beliefs grow as more people adopt them.
 
@@ -42,7 +42,7 @@ Ideas, fads, and beliefs grow as more people adopt them.
 
 ![Bandwagon Effect](assets/biases/bandwagon-effect.jpg)
 
-## Groupthink
+## Groupthink（群体迷思）
 
 Due to a desire for conformity and harmony in the group, we make irrational decisions, often to minimize conflict.
 
@@ -52,7 +52,7 @@ Due to a desire for conformity and harmony in the group, we make irrational deci
 
 ![Groupthink](assets/biases/groupthink.jpg)
 
-## Halo Effect
+## Halo Effect（光环效应）
 
 If you see a person as having a positive trait, that positive trait impression will spill over into their other traits. (This also works for negative traits.)
 
@@ -62,7 +62,7 @@ If you see a person as having a positive trait, that positive trait impression w
 
 ![Halo Effect](assets/biases/halo-effect.jpg)
 
-## Moral Luck
+## Moral Luck（道德运气）
 
 Better moral standing happens due to a positive outcome; worse moral standing happens due to a negative outcome.
 
@@ -72,7 +72,7 @@ Better moral standing happens due to a positive outcome; worse moral standing ha
 
 ![Moral Luck](assets/biases/moral-luck.jpg)
 
-## False Consensus
+## False Consensus（虚假共识效应）
 
 We believe more people agree with us than is actually the case.
 
@@ -82,7 +82,7 @@ We believe more people agree with us than is actually the case.
 
 ![False Consensus](assets/biases/false-consensus.jpg)
 
-## Curse of Knowledge
+## Curse of Knowledge（知识诅咒）
 
 Once we know something, we assume everyone else knows it, too.
 
@@ -92,7 +92,7 @@ Once we know something, we assume everyone else knows it, too.
 
 ![Curse of Knowledge](assets/biases/curse-of-knowledge.jpg)
 
-## Spotligh Effect
+## Spotligh Effect（聚光灯效应）
 
 We overestimate how much people are paying attention to our behavior and appearance.
 
@@ -102,7 +102,7 @@ We overestimate how much people are paying attention to our behavior and appeara
 
 ![Spotligh Effect](assets/biases/spotlight-effect.jpg)
 
-## Availability Heuristic
+## Availability Heuristic（可得性启发式）
 
 We rely on immediate examples that come to mind while making judgments.
 
@@ -112,7 +112,7 @@ We rely on immediate examples that come to mind while making judgments.
 
 ![Availability Heuristic](assets/biases/availability-heuristic.jpg)
 
-## Defensive Attribution
+## Defensive Attribution（防御性归因）
 
 As a witness who secretly fears being vulnerable to a serious mishap, we will blame the victim less and attacker more if we relate to the victim
 
@@ -122,7 +122,7 @@ As a witness who secretly fears being vulnerable to a serious mishap, we will bl
 
 ![Defensive Attribution](assets/biases/defensive-attribution.jpg)
 
-## Just-World Hypothesis
+## Just-World Hypothesis（公正世界假说）
 
 We tend to believe the world is just; therefore, we assume acts of injustice are deserved.
 
@@ -132,7 +132,7 @@ We tend to believe the world is just; therefore, we assume acts of injustice are
 
 ![Just-World Hypothesis](assets/biases/just-world-hypothesis.jpg)
 
-## Naive Realism
+## Naive Realism（朴素实在论）
 
  We believe that we observe objective reality and that other people are irrational, uninformed, or biased.
 
@@ -142,7 +142,7 @@ We tend to believe the world is just; therefore, we assume acts of injustice are
 
 ![Naive Realism](assets/biases/naive-realism.jpg)
 
-## Naive Cynicism
+## Naive Cynicism（朴素犬儒主义）
 
 We believe that we observe objective reality and that other people have a higher egocentric bias than they actually do in their intentions/actions.
 
@@ -152,7 +152,7 @@ We believe that we observe objective reality and that other people have a higher
 
 ![Naive Cynicism](assets/biases/naive-cynicism.jpg)
 
-## Forer Effect
+## Forer Effect（福勒效应（巴纳姆效应））
 
 **Also known as:** Barnum Effect
 
@@ -164,7 +164,7 @@ We easily attribute our personalities to vague statements, even if they can appl
 
 ![Forer Effect](assets/biases/forer-effect.jpg)
 
-## Dunning-Kruger Effect
+## Dunning-Kruger Effect（达宁－克鲁格效应）
 
 The less you know, the more confident you are. The more you know, the less confident you are.
 
@@ -174,7 +174,7 @@ The less you know, the more confident you are. The more you know, the less confi
 
 ![Dunning-Kruger Effect](assets/biases/dunning-kruger-effect.jpg)
 
-## Anchoring
+## Anchoring（锚定效应）
 
 We rely heavily on the first piece of information introduced when making decisions
 
@@ -184,7 +184,7 @@ We rely heavily on the first piece of information introduced when making decisio
 
 ![Anchoring](assets/biases/anchoring.jpg)
 
-## Automation Bias
+## Automation Bias（自动化偏差）
 
 We rely on automated systems, sometimes trusting too much in the automated correction of actually correct decisions
 
@@ -194,7 +194,7 @@ We rely on automated systems, sometimes trusting too much in the automated corre
 
 ![Automation Bias](assets/biases/automation-bias.jpg)
 
-##  Google Effect
+##  Google Effect（谷歌效应）
 
 **Also known as:** Digital Amnesia
 
@@ -206,7 +206,7 @@ We rely on automated systems, sometimes trusting too much in the automated corre
 
 ![ Google Effect](assets/biases/google-effect.jpg)
 
-## Reactance
+## Reactance（心理抗拒）
 
 We do the opposite of what we're told, especially when we perceive threats to personal freedoms.
 
@@ -216,7 +216,7 @@ We do the opposite of what we're told, especially when we perceive threats to pe
 
 ![Reactance](assets/biases/reactance.jpg)
 
-## Confirmation Bias
+## Confirmation Bias（确认偏差）
 
 We tend to find and remember information that confirms our perceptions.
 
@@ -226,7 +226,7 @@ We tend to find and remember information that confirms our perceptions.
 
 ![Confirmation Bias](assets/biases/confirmation-bias.jpg)
 
-## Backfire Effect
+## Backfire Effect（逆火效应）
 
 Disproving evidence sometimes has the unwarranted effect of confirming our beliefs.
 
@@ -236,7 +236,7 @@ Disproving evidence sometimes has the unwarranted effect of confirming our belie
 
 ![Backfire Effect](assets/biases/backfire-effect.jpg)
 
-## Third-Person Effect
+## Third-Person Effect（第三人效应）
 
 We believe that others are more affected by mass media consumption than we ourselves are.
 
@@ -246,7 +246,7 @@ We believe that others are more affected by mass media consumption than we ourse
 
 ![Third-Person Effect](assets/biases/third-person-effect.jpg)
 
-## Belief Bias
+## Belief Bias（信念偏差）
 
 We judge an argument's strength not by how strongly it supports the conclusion but how plausible the conclusion is in our own minds.
 
@@ -256,7 +256,7 @@ We judge an argument's strength not by how strongly it supports the conclusion b
 
 ![Belief Bias](assets/biases/belief-bias.jpg)
 
-## Availability Cascade
+## Availability Cascade（可得性级联）
 
 Tied to our need for social acceptance, collective beliefs gain more plausibility through public repetition.
 
@@ -266,7 +266,7 @@ Tied to our need for social acceptance, collective beliefs gain more plausibilit
 
 ![Availability Cascade](assets/biases/availability-cascade.jpg)
 
-## Declinism
+## Declinism（衰退主义）
 
  We tend to romanticize the past and view the future negatively, believing that societies/institutions are by and large in decline
 
@@ -276,7 +276,7 @@ Tied to our need for social acceptance, collective beliefs gain more plausibilit
 
 ![Declinism](assets/biases/declinism.jpg)
 
-## Status Quo Bias
+## Status Quo Bias（现状偏差）
 
 We tend to prefer things to stay the same; changes from the baseline are considered to be a loss.
 
@@ -286,7 +286,7 @@ We tend to prefer things to stay the same; changes from the baseline are conside
 
 ![Status Quo Bias](assets/biases/status-quo-bias.jpg)
 
-##  Sunk Cost Fallacy
+##  Sunk Cost Fallacy（沉没成本谬误）
 
 **Also known as:** Escalation of Commitment
 
@@ -298,7 +298,7 @@ We invest more in things that have cost us something rather than altering our in
 
 ![ Sunk Cost Fallacy](assets/biases/sunk-cost-fallacy.jpg)
 
-## Gambler's Fallacy
+## Gambler's Fallacy（赌徒谬误）
 
 We think future possibilities are affected by past events.
 
@@ -308,7 +308,7 @@ We think future possibilities are affected by past events.
 
 ![Gambler's Fallacy](assets/biases/gambler-fallacy.jpg)
 
-## Zero-Risk Bias
+## Zero-Risk Bias（零风险偏差）
 
 We prefer to reduce small risks to zero, even if we can reduce more risk overall with another option.
 
@@ -318,7 +318,7 @@ We prefer to reduce small risks to zero, even if we can reduce more risk overall
 
 ![Zero-Risk Bias](assets/biases/zero-risk-bias.jpg)
 
-## Framing Effect
+## Framing Effect（框架效应）
 
 We often draw different conclusions from the same information depending on how it's presented.
 
@@ -328,7 +328,7 @@ We often draw different conclusions from the same information depending on how i
 
 ![Framing Effect](assets/biases/framing-effect.jpg)
 
-## Stereotyping
+## Stereotyping（刻板印象）
 
 We adopt generalized beliefs that members of a group will have certain characteristics, despite not having information about the individual.
 
@@ -338,7 +338,7 @@ We adopt generalized beliefs that members of a group will have certain character
 
 ![Stereotyping](assets/biases/stereotyping.jpg)
 
-## Outgroup Homogeneity Bias
+## Outgroup Homogeneity Bias（外群体同质性偏差）
 
 We perceive out-group members as homogeneous and our own in-groups as more diverse.
 
@@ -348,7 +348,7 @@ We perceive out-group members as homogeneous and our own in-groups as more diver
 
 ![Outgroup Homogeneity Bias](assets/biases/outgroup-homogeneity-bias.jpg)
 
-## Authority Bias
+## Authority Bias（权威偏差）
 
 We trust and are more often influenced by the opinions of authority figures.
 
@@ -358,7 +358,7 @@ We trust and are more often influenced by the opinions of authority figures.
 
 ![Authority Bias](assets/biases/authority-bias.jpg)
 
-## Placebo Effect
+## Placebo Effect（安慰剂效应）
 
 If we believe a treatment will work, it often will have a small physiological effect.
 
@@ -368,7 +368,7 @@ If we believe a treatment will work, it often will have a small physiological ef
 
 ![Placebo Effect](assets/biases/placebo-effect.jpg)
 
-## Survivorship Bias
+## Survivorship Bias（幸存者偏差）
 
 We tend to focus on those things that survived a process and overlook ones that failed
 
@@ -378,7 +378,7 @@ We tend to focus on those things that survived a process and overlook ones that 
 
 ![Survivorship Bias](assets/biases/survivorship-bias.jpg)
 
-## Tachypsychia
+## Tachypsychia（时间知觉扭曲）
 
 Our perceptions of time shift depending on trauma, drug use, and physical exertion.
 
@@ -388,7 +388,7 @@ Our perceptions of time shift depending on trauma, drug use, and physical exerti
 
 ![Tachypsychia](assets/biases/tachypsychia.jpg)
 
-## Law of Triviality
+## Law of Triviality（琐碎定律）
 
 **Also known as:** Bike-Shedding
 
@@ -400,7 +400,7 @@ We give disproportionate weight to trivial issues, often while avoiding more com
 
 ![Law of Triviality](assets/biases/law-of-triviality.jpg)
 
-## Zeigarnik Effect
+## Zeigarnik Effect（蔡格尼克效应）
 
 We remember incomplete tasks more than completed ones.
 
@@ -410,7 +410,7 @@ We remember incomplete tasks more than completed ones.
 
 ![Zeigarnik Effect](assets/biases/zeigarnik-effect.jpg)
 
-## IKEA Effect
+## IKEA Effect（宜家效应）
 
 We place higher value on things we partially created ourselves.
 
@@ -420,7 +420,7 @@ We place higher value on things we partially created ourselves.
 
 ![IKEA Effect](assets/biases/ikea-effect.jpg)
 
-## Ben Franklin Effect
+## Ben Franklin Effect（本杰明·富兰克林效应）
 
 We like doing favors; we are more likely to do another favor for someone if we've already done a favor for them than if we had received a favor from that person.
 
@@ -430,7 +430,7 @@ We like doing favors; we are more likely to do another favor for someone if we'v
 
 ![Ben Franklin Effect](assets/biases/ben-franklin-effect.jpg)
 
-## Bystander Effect
+## Bystander Effect（旁观者效应）
 
 The more other people are around, the less likely we are to help a victim.
 
@@ -440,7 +440,7 @@ The more other people are around, the less likely we are to help a victim.
 
 ![Bystander Effect](assets/biases/bystander-effect.jpg)
 
-## Suggestibility
+## Suggestibility（易受暗示性）
 
 We, especially children, sometimes mistake ideas suggested by a questioner for memories.
 
@@ -450,7 +450,7 @@ We, especially children, sometimes mistake ideas suggested by a questioner for m
 
 ![Suggestibility](assets/biases/suggestibility.jpg)
 
-## False Memory
+## False Memory（虚假记忆）
 
 We mistake imagination for real memories.
 
@@ -460,7 +460,7 @@ We mistake imagination for real memories.
 
 ![False Memory](assets/biases/false-memory.jpg)
 
-## Cryptomnesia
+## Cryptomnesia（隐匿记忆）
 
 We mistake real memories for imagination.
 
@@ -470,7 +470,7 @@ We mistake real memories for imagination.
 
 ![Cryptomnesia](assets/biases/cryptomnesia.jpg)
 
-## Clustering Illusion
+## Clustering Illusion（聚类错觉）
 
 We find patterns and "clusters" in random data.
 
@@ -480,7 +480,7 @@ We find patterns and "clusters" in random data.
 
 ![Clustering Illusion](assets/biases/clustering-illusion.jpg)
 
-## Pressimism Bias
+## Pressimism Bias（悲观偏差）
 
 We sometimes overestimate the likelihood of bad outcomes.
 
@@ -490,7 +490,7 @@ We sometimes overestimate the likelihood of bad outcomes.
 
 ![Pressimism Bias](assets/biases/pressimism-bias.jpg)
 
-## Optimism Bias
+## Optimism Bias（乐观偏差）
 
 We sometimes are over-optimisitc about good outcomes.
 
@@ -500,7 +500,7 @@ We sometimes are over-optimisitc about good outcomes.
 
 ![Optimism Bias](assets/biases/optimism-bias.jpg)
 
-## Blind Spot Bias
+## Blind Spot Bias（偏差盲点）
 
 We don't think we have bias, and we see it in others more than ourselves.
 
